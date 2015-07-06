@@ -1,1 +1,3 @@
-My solutions to Python and C using various online Programming Challenges
+# Programming_Challenges
+
+My solutions to Python Challenges using Hackerrank
