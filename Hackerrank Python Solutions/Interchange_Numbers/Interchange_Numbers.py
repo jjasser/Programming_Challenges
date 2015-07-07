@@ -1,0 +1,7 @@
+# Takes two numbers and interchanges them
+
+a = int(raw_input())
+b = int(raw_input())
+
+print b
+print a
