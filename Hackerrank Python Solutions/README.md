@@ -1,3 +1,3 @@
 # Programming_Challenges
 
-My solutions to Python Challenges using Hackerrank
+My solutions to Python Hackerrank Challenges
